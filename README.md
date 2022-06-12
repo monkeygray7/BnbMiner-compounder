@@ -10,6 +10,6 @@ Im pretty new to python and wanted to automate with out any mouse clicks a quick
 
 ## Contact & Info
 - https://t.me/GrayMonkey
+- https://t.me/onedevv
 - If you have any ideas feel free to message me
 - If you have any other ideas for crypto projects like this one I would also love to hear them :D
-
